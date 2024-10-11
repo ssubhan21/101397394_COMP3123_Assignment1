@@ -1,5 +1,5 @@
-# 101362896_COMP3123_Assignment1
-101362896_COMP3123_Assignment1 repo
-author: James MacAloney
-student number: 101362897
-date: Oct 15 2023
+# 101397394_COMP3123_Assignment1
+101397394_COMP3123_Assignment1 repo
+author: Subhan Mohammed Abdul
+student number: 101397394
+date: Oct 11 2024
